@@ -33,7 +33,7 @@ neural-scope/
 │
 ├── app.py                  # Streamlit application
 ├── requirements.txt        # Python dependencies
-├── model (1) (1).pkl       # Trained ML model
+├── model.pkl       # Trained ML model
 ├── LICENSE                 # MIT License
 └── README.md               # Project documentation
 ```
